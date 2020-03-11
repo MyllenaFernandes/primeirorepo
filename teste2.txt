@@ -1,3 +1,7 @@
 arroz
 feijao
 batata
+
+strogonoff
+carne
+cogumelo
